@@ -1,0 +1,16 @@
+{
+  "name": "web-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./style.css -o ./tailwind/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "i": "^0.3.7",
+    "tailwindcss": "^3.2.0"
+  }
+}

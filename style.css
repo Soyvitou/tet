@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.font:hover
+{
+    font-size: smaller;
+    color: red;
+}
+.text-red-400
+{
+    font-size: xx-large;
+}
+.designer
+{
+    font-size: large;
+    
+}
+.fonts
+{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: orange;
+}
+.font_1
+{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 16px;
+    padding-right: 20px;
+    background-color: rgb(244, 187, 81);
+    display: block;
+    
+}
+.heart
+{
+    padding-left: 90px;
+    padding-right: 150px;
+}
